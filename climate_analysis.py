@@ -1,5 +1,7 @@
 """CLimate Analysis Toolkit"""
 
+# TODO: Something, just experimenting
+
 import sys
 import temp_conversion
 import signal
